@@ -1,1 +1,38 @@
-*{outline:0;padding:0;margin:0;border:0}body{height:5503px;background:url(/img/fon.png) center}.frame{width:964px;height:471px;position:absolute;left:50%;margin-left:-482px;border:10px solid #ad7835}h1{width:560px;height:144px;color:#fff;font-family:"Droid Serif";font-size:185px;font-weight:400;line-height:115.75px}
+/** {
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}*/
+body {
+  height: 5503px;
+  background: url(/img/fon.png);
+  background-position: center;
+}
+header {
+	width: 100%;
+	height: 100vh;
+	
+}
+.frame {
+  width: 964px;
+  height: 471px;
+  position: absolute;
+  left: 50%;
+  margin-left: -482px;
+  margin-top: 170px;
+  border: 10px solid #ad7835;
+  text-align: center;
+
+  
+}
+.frame h1 {
+  width: 560px;
+  height: 144px;
+  color: #ffffff;
+  font-family: "Droid Serif";
+  font-size: 185px;
+  font-weight: 400;
+  line-height: 115.75px;
+  display: inline-block;
+}
